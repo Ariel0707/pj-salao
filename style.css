@@ -19,7 +19,7 @@ h1{
 }
 h2{
     text-align: center;
-    color: rgb(156, 11, 11);
+    color: rgb(179, 39, 39);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin-top: 20px;
 }
@@ -117,7 +117,7 @@ input[type="button"]:hover{
 footer{
     width: 100%;
     text-align: center;
-    background-color: rgb(207, 14, 14);
+    background-color: rgb(221, 65, 65);
     color: white;
     padding: 1px 0;
 }
